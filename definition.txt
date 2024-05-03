@@ -1,0 +1,18 @@
+Title: To-Do List Application using React.js with authentication
+ 
+ - Login: Users login with email and password { email and password throw you can generate random token and set authentication}. 
+ 
+ Features: {without authentication can't work any changes or any page redirection}
+ - Add Task: Users can input their tasks into the provided text input field and click the "Add" button to add the task to the list.
+ - View Tasks: All added tasks are displayed in a list format below the input field, showing the task descriptions.
+ - Delete Task: Each task in the list is accompanied by a "Delete" button. Clicking this button removes the respective task from the list.
+ 
+ Adding a Task:
+ - Enter the task description in the input field provided at the top of the application.
+ - Click the "Add" button to add the task to the list.
+ - The added task will appear in the list below the input field.
+ 
+ Deleting a Task:
+ - Each task in the list is displayed with a "Delete" button.
+ - Click the "Delete" button next to the task you want to remove.
+ - The task will be immediately removed from the list.
